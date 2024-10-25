@@ -1,9 +1,6 @@
 [user.A]
 ANDROID_COOKIE = ""
 
-[user.B]
-ANDROID_COOKIE = ""
-
 [notify]
 PUSH_PLUS_TOKEN = ""
 SC_KEY = ""
